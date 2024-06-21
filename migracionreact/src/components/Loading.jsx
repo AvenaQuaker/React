@@ -1,7 +1,7 @@
 function Loading() {
     return (
-        <div class="loading" id="loading">
-            <div class="loader"></div>
+        <div className="loading" id="loading">
+            <div className="loader"></div>
             <label> Actualizando Datos...</label>
         </div>
     );
